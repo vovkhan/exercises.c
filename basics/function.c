@@ -23,4 +23,5 @@ int main(void){
 
     int area = rectangleArea(5, 8);
     printf("The area is: %d.\n", area);
+    return 0;
 }
